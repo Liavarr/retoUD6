@@ -1,0 +1,4 @@
+Cabecera - Fecha: Wed Mar 20 18:35:06 CET 2024
+Jugador [nombre = Mora, arma = pesa, lugar = spa, hora = 2024-03-20T18:35:06.478627800]
+Cabecera - Fecha: Wed Mar 20 18:35:15 CET 2024
+Jugador [nombre = Blanco, arma = bate, lugar = vestíbulo, hora = 2024-03-20T18:35:15.802573800]
